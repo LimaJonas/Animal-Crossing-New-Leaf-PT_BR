@@ -1,6 +1,6 @@
 # Animal Crossing: New Leaf - Tradução para Português (Brasil)
 
-O objetivo deste projeto é traduzir os arquivos de texto do jogo.
+O objetivo deste projeto é traduzir todos os texto do jogo.
 
 ## Status
 
@@ -8,6 +8,14 @@ O objetivo deste projeto é traduzir os arquivos de texto do jogo.
 
 ![Demonstração](https://i.imgur.com/uHMqJFN.jpeg)
 
+## Instalação
+Via CITRA/Emulador:
+- Na lista de jogos, clique com o botão direito e vá em "Abrir pasta de Mods"
+- Cole o conteúdo de romfs/ na pasta
+
+
 ## Aviso
 
-Este projeto **não distribui arquivos do jogo**. Apenas os arquivos para tradução
+A versão do jogo utilizada é base EUA: 0004000000086300
+
+Este projeto **não distribui o jogo**. Apenas o mod para tradução
