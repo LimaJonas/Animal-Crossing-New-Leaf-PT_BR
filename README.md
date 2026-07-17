@@ -6,7 +6,7 @@ O objetivo deste projeto é traduzir todos os texto do jogo.
 
 🚧 Projeto em desenvolvimento.
 
-![Demonstração](https://i.imgur.com/uHMqJFN.jpeg)
+![Demonstração](https://i.imgur.com/umuRi49.jpeg)
 
 ## Instalação
 Via CITRA/Emulador:
