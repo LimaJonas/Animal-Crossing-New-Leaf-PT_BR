@@ -17,8 +17,11 @@ Para aqueles que queiram ajudar no desenvolvimento da tradução, um tutorial si
 ![Demonstração1](https://i.imgur.com/IZr6WTg.png)
 - Basta começar a traduzir, seguindo as regras abaixo
 
+
 ![Demonstração2](https://i.imgur.com/vsE45n8.png)
+
 Após a tradução
+
 ![Demonstração3](https://i.imgur.com/tyZ1zLj.png)
 
 - Após toda a alteração no arquivo, salve-o e coloque na pasta equivalente do repositório (Se estava em /romfs/00...0/Script/Talk, coloque no [repositório]/romfs/Script/Talk) e faça o commit.
