@@ -30,8 +30,8 @@ Após a tradução
 ## Regras
 - Não remova os comandos {{}}, pois são usados pelo jogo para definir a reação do personagem durante sua fala, ou definições de texto como tamanho ou parágrafos.
 - Não inclua ou remova linhas. O jogo usa a posição da linha do texto original para definir se será um dialogo ou uma resposta do jogador. Se o bloco original conter 4 linhas, a tradução deve conter também 4 linhas.
-- O jogo entende a quebra de linha por duas formas, com a quebra de linha em si, e quando uma linha passa um número X de caracteres, que pode variar de acordo com o tamanho do texto exibido, em geral é 35, se o paragráfo iniciar com {{0:4}}, mas basta não ultrapassar o tamanho original
-- Caso a tradução feita ultrapasse o numero de linhas cabíveis no dialogo original, o texto poderá ser ignorado pelo jogo.
+- O jogo entende a quebra de linha por duas formas, com a quebra de linha em si, e quando uma linha passa um número X de caracteres, que pode variar de acordo com o tamanho do texto exibido, em geral é 35, mas quando for traduzir, não ultrapasse o tamanho original da linha
+- Caso a tradução feita ultrapasse o numero de linhas cabíveis no dialogo original, o texto será ignorado pelo jogo. Então não crie novas linhas!
 - Não é necessário ser uma tradução 1:1. Pode usar sinonimos ou encurtar falas para caber no formato original. Só lembre-se de manter o mesmo contexto e compreensão
 - Vamos tentar manter o nome dos locais originais (Nook's Home, Abble Sisters...) traduzindo apenas as falas
 * Quaisquer dúvidas estarei a disposição para tentar ajudar.
