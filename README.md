@@ -15,13 +15,13 @@ Via **CITRA** (Emulador):
 
 Via **LUMA** (Console):
 - Na raiz do cartão SD, crie as pastas "luma/titles/" caso não exista.
-- Dentro da titles, crie outra pasta com o Title ID do jogo "0004000000086300/"
+- Dentro da titles, crie outra pasta com o Title ID do jogo "0004000000198E00/"
 - Aqui, cole a pasta romfs baixada do repositório
-- O caminho final ficará "luma/titles/0004000000086300/romfs/Scritps/..."
+- O caminho final ficará "luma/titles/0004000000198E00/romfs/Scritps/..."
 - Pronto, basta iniciar o jogo com o idioma original.
 
 ## Aviso
 
-A versão do jogo utilizada é a base norte americana: 0004000000086300
+A versão do jogo utilizada é a WELCOME AMIIBO norte americana: 0004000000198E00
 
 Este projeto **não distribui o jogo**. Apenas o mod para tradução
