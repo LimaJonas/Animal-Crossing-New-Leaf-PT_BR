@@ -3,13 +3,13 @@
 Para aqueles que queiram ajudar no desenvolvimento da tradução, um tutorial simplificado
 
 ## Requisitos
-- O arquivo do jogo original (Versão base EUA: 0004000000086300)
+- O arquivo do jogo original (Versão WELCOME AMIIBO (USA): 0004000000198E00)
 - Editor de .UMSBT (Recomendo o [MSBT Editor](https://msbt-editor.aeonsake.com/))
 
 
 ## Passo a passo
 - Faça o dump os arquivos do jogo original. Isso pode ser feito através do [emulador CITRA](https://www.youtube.com/watch?v=siYozu-ki5c)
-- Será gerado uma pasta /romfs/0004000000086300/
+- Será gerado uma pasta /romfs/0004000000198E00/
 - Procure pelos arquivos .umsbt pasta Script/Talk ou Script/Str
 - Escolha um e abra com o editor de UMSBT
 - Selecione o layer 0.msbt, que são os textos em inglês
