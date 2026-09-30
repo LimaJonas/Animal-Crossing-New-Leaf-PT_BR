@@ -25,3 +25,5 @@ Via **LUMA** (Console):
 A versão do jogo utilizada é a WELCOME AMIIBO norte americana: 0004000000198E00
 
 Este projeto **não distribui o jogo**. Apenas o mod para tradução
+
+Entre no [grupo do discord](https://discord.gg/Rye5pCAqE) para tirar duvidas e postar erros encontrado
