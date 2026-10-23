@@ -26,4 +26,4 @@ A versão do jogo utilizada é a WELCOME AMIIBO norte americana: 0004000000198E0
 
 Este projeto **não distribui o jogo**. Apenas o mod para tradução
 
-Entre no [grupo do discord](https://discord.gg/Rye5pCAqE) para tirar duvidas e postar erros encontrado
+Entre no [grupo do discord](https://discord.gg/EfykYzhSmZ) para tirar duvidas e postar erros encontrado
